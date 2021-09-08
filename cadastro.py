@@ -1,3 +1,4 @@
+#by hudymoreira@gmail.com
 import sqlite3
 #cria banco de dados
 con = sqlite3.connect('dados.db')
